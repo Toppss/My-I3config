@@ -344,7 +344,7 @@ font pango:Noto Mono Regular 13
 exec --no-startup-id dex $HOME/.config/autostart/arcolinux-welcome-app.desktop
 
 # Autotiling
-exec_always --no-startup-id autotiling
+exec_always --no-startup-id autotiling --limit 2
 
 # Browser
 # exec --no-startup-id vivaldi-stable
