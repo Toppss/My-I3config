@@ -1,0 +1,440 @@
+{
+	"file_history":
+	[
+		"/home/weston/.config/archlinux-logout/archlinux-logout.conf",
+		"/home/weston/.config/htop/htoprc",
+		"/home/weston/.config/archlinux-tweak-tool/settings.ini",
+		"/home/weston/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/weston/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/home/weston/.config/sublime-text/Packages/User/Mariana.sublime-color-scheme",
+		"/home/weston/.config/sublime-text/Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+		"/home/weston/.config/alacritty/default-arcolinux.toml",
+		"/home/weston/.config/alacritty/alacritty.toml",
+		"/etc/skel/.config/alacritty/default-arcolinux.toml",
+		"/etc/skel/.config/alacritty/alacritty.toml",
+		"/home/weston/.config/sublime-text/Packages/Theme - Default/Default Dark.sublime-theme",
+		"/home/weston/.config/sublime-text/Packages/User/Default Dark.sublime-theme",
+		"/home/weston/.config/polybar/config.ini",
+		"/home/weston/.config/i3/config-polybar",
+		"/home/weston/.config/i3/config",
+		"/home/weston/Downloads/config",
+		"/home/weston/.config/i3/launcher/launcher.sh",
+		"/home/weston/.config/rofi/config.rasi",
+		"/home/weston/.config/i3/launcher/rofi/colors.rasi",
+		"/home/weston/.config/i3/launcher/rofi/launcher.rasi",
+		"/home/weston/.var/app/com.valvesoftware.Steam/.steam/steam/config/DialogConfig.vdf",
+		"/home/weston/.config/i3/i3status.conf",
+		"/home/weston/.config/i3/picom.conf",
+		"/run/media/weston/Ventoy/--/BACKUPS/i3/i3status.conf",
+		"/home/weston/.mozilla/firefox/installs.ini",
+		"/home/weston/.var/app/com.valvesoftware.Steam/.steam/steam/steam_dev.cfg",
+		"/home/weston/.mozilla/firefox/profiles.ini"
+	],
+	"folder_history":
+	[
+		"/home/weston/.config",
+		"/home/weston/.config/i3"
+	],
+	"last_version": 4169,
+	"last_window_id": 4,
+	"log_indexing": false,
+	"next_update_check": 1719248680,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 692.0,
+		"new_window_maximized": false,
+		"new_window_position":
+		[
+			12.0,
+			740.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"install package ",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/weston/.config/archlinux-logout/archlinux-logout.conf",
+				"/home/weston/.config/htop/htoprc",
+				"/home/weston/.config/archlinux-tweak-tool/settings.ini",
+				"/home/weston/.config/sublime-text/Packages/User/Mariana.sublime-color-scheme",
+				"/home/weston/.config/sublime-text/Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+				"/home/weston/.config/alacritty/default-arcolinux.toml",
+				"/home/weston/.config/alacritty/alacritty.toml",
+				"/etc/skel/.config/alacritty/default-arcolinux.toml",
+				"/etc/skel/.config/alacritty/alacritty.toml",
+				"/home/weston/.config/polybar/config.ini",
+				"/home/weston/.config/i3/config-polybar",
+				"/home/weston/.config/i3/config",
+				"/home/weston/Downloads/config",
+				"/home/weston/.config/i3/launcher/launcher.sh",
+				"/home/weston/.config/rofi/config.rasi",
+				"/home/weston/.config/i3/launcher/rofi/colors.rasi",
+				"/home/weston/.config/i3/launcher/rofi/launcher.rasi",
+				"/home/weston/.var/app/com.valvesoftware.Steam/.steam/steam/config/DialogConfig.vdf",
+				"/home/weston/.config/i3/i3status.conf",
+				"/home/weston/.config/i3/picom.conf",
+				"/run/media/weston/Ventoy/--/BACKUPS/i3/i3status.conf",
+				"/home/weston/.mozilla/firefox/installs.ini",
+				"/home/weston/.var/app/com.valvesoftware.Steam/.steam/steam/steam_dev.cfg",
+				"/home/weston/.mozilla/firefox/profiles.ini"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 261.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1264.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"install package ",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/weston/.config",
+				"/home/weston/.config/alacritty",
+				"/home/weston/.config/archlinux-logout",
+				"/home/weston/.config/archlinux-tweak-tool",
+				"/home/weston/.config/autostart",
+				"/home/weston/.config/conky",
+				"/home/weston/.config/conky/breaking-bad"
+			],
+			"file_history":
+			[
+				"/home/weston/.config/archlinux-logout/archlinux-logout.conf",
+				"/home/weston/.config/htop/htoprc",
+				"/home/weston/.config/archlinux-tweak-tool/settings.ini",
+				"/home/weston/.config/sublime-text/Packages/User/Mariana.sublime-color-scheme",
+				"/home/weston/.config/sublime-text/Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+				"/home/weston/.config/alacritty/default-arcolinux.toml",
+				"/home/weston/.config/alacritty/alacritty.toml",
+				"/etc/skel/.config/alacritty/default-arcolinux.toml",
+				"/etc/skel/.config/alacritty/alacritty.toml",
+				"/home/weston/.config/polybar/config.ini",
+				"/home/weston/.config/i3/config-polybar",
+				"/home/weston/.config/i3/config",
+				"/home/weston/Downloads/config",
+				"/home/weston/.config/i3/launcher/launcher.sh",
+				"/home/weston/.config/rofi/config.rasi",
+				"/home/weston/.config/i3/launcher/rofi/colors.rasi",
+				"/home/weston/.config/i3/launcher/rofi/launcher.rasi",
+				"/home/weston/.var/app/com.valvesoftware.Steam/.steam/steam/config/DialogConfig.vdf",
+				"/home/weston/.config/i3/i3status.conf",
+				"/home/weston/.config/i3/picom.conf",
+				"/run/media/weston/Ventoy/--/BACKUPS/i3/i3status.conf",
+				"/home/weston/.mozilla/firefox/installs.ini",
+				"/home/weston/.var/app/com.valvesoftware.Steam/.steam/steam/steam_dev.cfg",
+				"/home/weston/.mozilla/firefox/profiles.ini"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/weston/.config"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,10,709,1274,1401,2560,1440,0",
+			"project": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 261.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 3,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
