@@ -1,1 +1,1 @@
-sudo pacman -S betterlockscreen i3status-rust 
+sudo pacman -S betterlockscreen i3status-rust zoxide fzf thefuck
