@@ -1,1 +1,3 @@
 sudo pacman -S betterlockscreen i3status-rust zoxide fzf thefuck
+
+theming - "Capitaine Cursors" "surfin numixs" "breeze-dark"
